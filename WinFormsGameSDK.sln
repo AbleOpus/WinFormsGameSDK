@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinFormsGameSDK", "WinFormsGameSDK\WinFormsGameSDK.csproj", "{7F4AFE34-C3CC-471D-BB30-F52A9DC8DAE3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZombieSurvival", "ZombieSurvival\ZombieSurvival.csproj", "{A0CB7862-2717-415E-88FD-C22A3D8B7CF4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7F4AFE34-C3CC-471D-BB30-F52A9DC8DAE3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7F4AFE34-C3CC-471D-BB30-F52A9DC8DAE3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7F4AFE34-C3CC-471D-BB30-F52A9DC8DAE3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7F4AFE34-C3CC-471D-BB30-F52A9DC8DAE3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A0CB7862-2717-415E-88FD-C22A3D8B7CF4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A0CB7862-2717-415E-88FD-C22A3D8B7CF4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A0CB7862-2717-415E-88FD-C22A3D8B7CF4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A0CB7862-2717-415E-88FD-C22A3D8B7CF4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
